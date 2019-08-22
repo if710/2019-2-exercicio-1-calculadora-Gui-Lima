@@ -216,6 +216,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
         (findViewById(R.id.btn_Add) as Button).setOnClickListener(this)
         (findViewById(R.id.btn_Divide) as Button).setOnClickListener(this)
         (findViewById(R.id.btn_Multiply) as Button).setOnClickListener(this)
+        (findViewById(R.id.btn_Subtract) as Button).setOnClickListener(this)
     }
 
 }
